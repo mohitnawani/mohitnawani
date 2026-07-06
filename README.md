@@ -1,13 +1,13 @@
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mohit%20Kumar%20Nawani&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20|%20MERN%20Stack%20Enthusiast&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Mohit%20Kumar%20Nawani&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20%7C%20AI%2FGenAI%20Developer&descAlignY=55&descSize=20)
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=600&lines=Building+Scalable+Web+Apps+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;Competitive+Programmer+%F0%9F%A7%A9;Civil+Engineering+%E2%86%92+Tech+%F0%9F%8C%89" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=650&lines=Building+Scalable+Web+Apps+%F0%9F%9A%80;MERN+Stack+Developer+%F0%9F%92%BB;GenAI+%2F+RAG+Engineer+%F0%9F%A4%96;Civil+Engineering+%E2%86%92+Tech+%F0%9F%8C%89" alt="Typing SVG" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=mohitnawani&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/mohitnawani?label=Followers&style=for-the-badge&color=blue" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%2FGenAI%20Development-brightgreen?style=for-the-badge" alt="Focus" />
 </p>
 
 </div>
@@ -23,26 +23,26 @@
 ```javascript
 const mohit = {
     pronouns: "He" | "Him",
-    education: "B.Tech Civil Engineering @ DTU",
-    currentFocus: "Full Stack Development (MERN)",
-    currentProject: "CodeNexus - LeetCode Clone",
-    learning: ["System Design", "Redis", "Advanced Backend"],
-    hobbies: ["Coding 💻", "Gym 🏋️", "Problem Solving 🧩"],
+    education: "B.Tech Civil Engineering @ DTU (2026)",
+    currentFocus: "Full Stack Development (MERN) + GenAI / RAG",
+    currentProjects: ["CodeNexus - LeetCode Clone", "EduMind AI - RAG Tutor"],
+    learning: ["System Design", "LLD", "Advanced Backend", "Agentic AI"],
+    hobbies: ["Coding 💻", "Cricket Content Creation 🏏", "Gym 🏋️"],
     funFact: "From building structures to building scalable apps!",
-    askMeAbout: ["JavaScript", "React", "Node.js", "MongoDB"],
+    askMeAbout: ["React", "Node.js", "MongoDB", "LangChain", "RAG", "Redis"],
     reachMe: "mohitnawani10@gmail.com"
 };
 ```
 
 <br clear="right"/>
 
-- 🎓 **Final Year Civil Engineering Student** at **Delhi Technological University**
-- 💻 Passionate about building **scalable web applications**
-- 🔭 Currently working on **CodeNexus** - A full-stack coding platform
-- 🌱 Learning **Advanced Backend Development, System Design & Redis**
-- 💪 **Daily Routine:** Gym in the morning, Code at night
-- 🎯 **2026 Mission:** Land a Full-Time Tech Role & Master DSA
-- ⚡ **Fun Fact:** Shifted from Civil Engineering to Web Development!
+- 🎓 **B.Tech, Civil Engineering** — Delhi Technological University (Class of 2026)
+- 💻 Self-taught **Full Stack (MERN) & AI/GenAI Developer**
+- 🔭 Currently building **CodeNexus** (coding platform) & **EduMind AI** (RAG-based AI tutor)
+- 🌱 Learning **LangChain, RAG pipelines, System Design & LLD**
+- 💼 **Actively looking** for SDE / AI-focused roles at startups
+- 🎯 **2026 Mission:** Land a full-time Tech/AI role & ship production-grade AI products
+- ⚡ **Fun Fact:** Shifted from Civil Engineering to Full Stack + AI Development!
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
@@ -54,48 +54,51 @@ const mohit = {
 <tr>
 <td width="50%">
 
-### 🧩 CodeNexus - MERN Stack Coding Platform
+### 🧩 CodeNexus - MERN Coding Platform
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/mohitnawani/LeetCode-Clone)
+[![Live](https://img.shields.io/badge/Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://codenexus-dev.vercel.app)
 
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 
 **A full-stack competitive programming platform**
 
 **Tech Stack:**
-- Frontend: React.js + Tailwind CSS
-- Backend: Node.js + Express.js
+- Frontend: React.js, Redux Toolkit, Monaco Editor
+- Backend: Node.js, Express.js, Redis
 - Database: MongoDB
-- Auth: JWT
-- API: Judge0 for code compilation
+- Auth: JWT + Google OAuth 2.0
+- APIs: Judge0 (code execution), Gemini API, Cloudinary
 
 **Features:**
-- 🔐 User Authentication & Authorization
-- 💾 Problem Management System
-- ⚡ Multi-language Code Execution
-- 🎨 Responsive UI Design
-- 🤖 AI Chatbot (Coming Soon)
+- 🔐 Google OAuth + JWT auth with Redis token blocklisting
+- 🎛️ Split-panel Monaco Editor with multi-language execution
+- 🤖 AI-powered DSA doubt solver via Gemini API
+- 🎬 Video uploads with auto thumbnail generation (Cloudinary)
+- 🛡️ Role-based access control (User/Admin)
 
 </td>
 <td width="50%">
 
-### 🛒 React Shopping Cart
+### 📚 EduMind AI - RAG-Based AI Tutor
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](#)
 
 <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
 
-**E-commerce cart management application**
+**An AI platform for PDF/video-based Q&A using RAG**
 
 **Tech Stack:**
-- React.js
-- JavaScript (ES6+)
-- Tailwind CSS
+- Frontend: React.js, Redux Toolkit
+- Backend: Node.js, LangChain.js
+- Vector DB: Pinecone (namespaced)
+- LLM: Gemini 2.5 Flash, Gemini Embeddings
+- Auth & Storage: JWT, Redis, Cloudinary
 
 **Features:**
-- 🛍️ Add/Remove items from cart
-- 💰 Real-time price calculation
-- 🔢 Quantity management
-- 📱 Fully responsive design
-- ⚡ Fast & optimized performance
+- 📄 Upload PDFs/videos and chat with an AI tutor
+- 🧠 Custom ingestion pipeline: chunking → Gemini embeddings → Pinecone
+- 💬 Context-grounded answers with persistent chat history
+- 🎨 Markdown + syntax-highlighted chat UI
+- 🚧 Upcoming: Whisper transcription, multi-doc chat, auto-quizzes
 
 </td>
 </tr>
@@ -115,6 +118,7 @@ const mohit = {
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
 <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
@@ -123,22 +127,34 @@ const mohit = {
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" />
+<img src="https://img.shields.io/badge/OAuth_2.0-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-### 🗄️ Databases
+### 🤖 AI / GenAI
+<p>
+<img src="https://img.shields.io/badge/LangChain.js-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG_Pipelines-FF6F00?style=for-the-badge&logo=OpenAI&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white" />
+</p>
+
+### 🗄️ Databases & Cache
 <p>
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-### 🧰 Tools & Technologies
+### 🧰 Tools & Deployment
 <p>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
 </p>
 
@@ -189,12 +205,12 @@ const mohit = {
 
 | 🏅 Achievement | 📊 Details |
 |:---:|:---:|
-| **LeetCode** | Top 78% Globally 🌍 |
-| **50-Day Badge** | Consistency Streak 🔥 |
-| **GeeksforGeeks** | Coding Score: 415 ⭐ |
+| **LeetCode** | 100+ Problems Solved · 50-Day Consistency Badge 🔥 |
+| **GeeksforGeeks** | 123+ Problems · Coding Score 415 ⭐ |
 | **AIR** | Rank 1,873 in C++ 🚀 |
-| **Science Talent** | 2× Rank Holder 🏆 |
+| **Science Talent** | 2× Rank Holder (Inter-NDMC) 🏆 |
 | **DKM Certificate** | Volunteer Mentor 🎓 |
+| **SCEE, DTU** | Core Member — led 5+ technical events for 100+ students |
 
 </div>
 
@@ -214,25 +230,22 @@ const mohit = {
 
 ```javascript
 const roadmap2026 = {
-    Q1: {
-        goal: "🚀 Complete CodeNexus & Deploy",
-        skills: ["System Design", "Redis", "Docker"]
-    },
-    Q2: {
-        goal: "💼 Land Tech Internship/Full-Time Role",
-        target: ["FAANG", "Product Companies", "Startups"]
+    Q1_Q2: {
+        goal: "🚀 Ship CodeNexus & EduMind AI end-to-end",
+        done: ["Google OAuth + Redis JWT", "RAG pipeline", "Redux frontend"]
     },
     Q3: {
-        goal: "🏆 Master DSA - Solve 500+ Problems",
-        platforms: ["LeetCode", "GeeksforGeeks", "Codeforces"]
+        goal: "💼 Land a Full-Time SDE / AI-Focused Role",
+        target: ["AI-first Startups", "Full-Stack Startups", "Dev Tools"]
     },
     Q4: {
-        goal: "📦 Build 3 Production-Ready Projects",
-        focus: ["Scalability", "Performance", "Best Practices"]
+        goal: "🏆 Deepen System Design & LLD",
+        focus: ["Low-Level Design", "Scalability", "Distributed Systems"]
     },
     continuous: {
+        genAI: "🤖 Ship more RAG / LLM-powered features",
         openSource: "🌟 Contribute to Open Source",
-        learning: "📚 Stay Updated with Tech Trends"
+        learning: "📚 Stay Updated with AI & Web Tech Trends"
     }
 };
 ```
@@ -254,9 +267,9 @@ const roadmap2026 = {
       <br>
       <i>Core Member</i>
       <br><br>
-      • Planning technical events<br>
-      • Organizing workshops<br>
-      • Student engagement activities
+      • Led 5+ technical events & workshops<br>
+      • Drove participation of 100+ students<br>
+      • Coordinated industry-academia sessions
     </td>
     <td align="center" width="50%">
       <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100" />
